@@ -1,5 +1,7 @@
 <resources>
     <!-- detail -->
-    <dimen name="detail_photo_height">224dp</dimen>
+    <dimen name="detail_photo_height">310dp</dimen>
+    <dimen name="detail_photo_width">12000dp</dimen>
     <dimen name="detail_inner_horiz_margin">112dp</dimen>
+    <dimen name="detail_card_top_margin">425dp</dimen>
 </resources>
