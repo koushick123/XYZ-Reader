@@ -23,4 +23,6 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="dkgray">#565656</color>
+    <color name="statusBarColor">#871313</color>
+    <color name="appBarColor">#F44336</color>
 </resources>
