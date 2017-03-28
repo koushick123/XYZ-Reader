@@ -3,6 +3,7 @@
     <bool name="detail_is_card">true</bool>
 
     <dimen name="detail_photo_height">710dp</dimen>
-    <dimen name="detail_card_top_margin">716dp</dimen>
+    <dimen name="detail_card_top_margin">746dp</dimen>
     <dimen name="detail_card_max_width">7000dp</dimen>
+    <dimen name="detail_photo_top_margin">100dp</dimen>
 </resources>
