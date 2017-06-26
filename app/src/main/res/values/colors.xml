@@ -25,4 +25,5 @@
     <color name="dkgray">#565656</color>
     <color name="statusBarColor">#871313</color>
     <color name="appBarColor">#F44336</color>
+    <color name="backGrdColor">#445db9</color>
 </resources>
